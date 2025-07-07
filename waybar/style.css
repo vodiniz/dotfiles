@@ -136,13 +136,7 @@ window#waybar.empty #window {
 
 #custom-power {
     color: #f38ba8;
-    padding-right: 15px;
-    font-size: 14px;
-}
-
-#ecustom-power-profiles-daemon {
-    color: #f38ba8;
-    padding-right: 20px;
+    padding-right: 5px;
     font-size: 14px;
 }
 
